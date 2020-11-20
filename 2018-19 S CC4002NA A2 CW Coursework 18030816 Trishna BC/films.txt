@@ -1,0 +1,10 @@
+Pulp Fiction,$5,30
+Lord Of Rings,$2.5,10
+The Revenant,$4,20
+Captain Marvel,$3.5,12
+Alladdin,$2,9
+Doctor Stranger,$3,15
+The Conjuring,$2.5,13
+Annabelle,$1.5,16
+Avengers,$5,18
+Black Panther,$4.5,17
